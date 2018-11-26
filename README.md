@@ -1,5 +1,4 @@
 # Sit-On-Chair-Project
-
 My first web page project created during a front-end bootcamp course in Coders Lab.
 The purpose of it is to recreate a web page from an image (attached below).
 
